@@ -108,3 +108,5 @@ output/*.jpg
 output/*.gif
 
 .DS_Store
+
+emojis.json
